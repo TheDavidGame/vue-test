@@ -44,12 +44,12 @@ export default new Vuex.Store({
         ],
         editedItem: {
             id: 0,
+            parent: "Алексей",
             phone: 0,
             nameChild: "",
-            parent: ""
         },
         defaultItem: {
-            parent: "",
+            parent: "Алексей",
             phone: 0,
             nameChild: ""
         },

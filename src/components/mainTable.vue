@@ -1,5 +1,6 @@
 <template>
   <v-app>
+    <!-- использовал библиотеку готовых компонентов - Vuetify -->
     <v-row class="tab__wrapper">
       <v-col cols="12">
         <!-- таблица -->
